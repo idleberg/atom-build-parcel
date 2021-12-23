@@ -1,7 +1,7 @@
 {
   "name": "build-parcel",
   "version": "0.0.0",
-  "description": "Atom Build provider for ParcelJS, the next generation frontend tooling for the Web",
+  "description": "Atom Build provider for Parcel, the zero configuration build tool for the web",
   "repository": "https://github.com/idleberg/atom-build-parcel",
   "license": "MIT",
   "keywords": [
@@ -22,7 +22,7 @@
   ],
   "providedServices": {
     "builder": {
-      "description": "Transpiles JavaScript",
+      "description": "Builds JavaScript",
       "versions": {
         "2.0.0": "provideBuilder"
       }

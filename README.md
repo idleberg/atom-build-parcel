@@ -6,7 +6,7 @@
 [![CI](https://img.shields.io/github/workflow/status/idleberg/atom-build-parcel/CI?style=flat-square)](https://github.com/idleberg/atom-build-parcel/actions)
 [![David](https://flat.badgen.net/david/dev/idleberg/atom-build-parcel)](https://david-dm.org/idleberg/atom-build-parcel?type=dev)
 
-[Atom Build](https://atombuild.github.io/) provider for `parcel`, the next generation frontend tooling for the Web.
+[Atom Build](https://atombuild.github.io/) provider for `parcel`, the zero configuration build tool for the web.
 
 ## Installation
 
